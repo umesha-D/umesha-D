@@ -1,4 +1,4 @@
-### Hi there, I'm Umesha Indeewari Ramanayake 👋
+### Hi,I'm Umesha Indeewari Ramanayake 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=umeshaRamanayake.visitor-badge)
 
 
