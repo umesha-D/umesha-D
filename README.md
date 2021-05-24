@@ -1,15 +1,7 @@
-### Hi there, I'm Shihara Dilshan [Portfolio] 👋
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=shiharadilshan.visitor-badge)
+### Hi there, I'm Umesha Indeewari Ramanayake 👋
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=umeshaRamanayake.visitor-badge)
 
-## I'm a Developer, Gamer, Student, and Self learner!!
 
-- 🌱 My ultimate goal is to contribute to the Linux kernal.
-- 🔭 Take a few minutes to look at my [Portfolio]!
-- 👯 I'm currently looking for any opportunity that I can get for prove my self.
-- 🥅 Javascript is my favourite language.
-- ⚡ Fun fact: I love to Code and play Dota.
-
-### Connect with me:
 
 [<img align="left" alt="noobstack" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="noobstack | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
@@ -42,18 +34,6 @@
 <br />
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Hold 4 PRs [#14](https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot/pulls) in [Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot](https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot/pull/44) in [Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/Shihara-Dilshan/DataStructures-And-Algorithms/pull/1) in [Shihara-Dilshan/codeSTACKr](https://github.com/Shihara-Dilshan/DataStructures-And-Algorithms)
-5. 💪 Opened ISSUE [#259](https://github.com/Shihara-Dilshan/BringMeLK-Android-FireBase/issues) in [Shihara-Dilshan/BringMeLK-Android-FireBase ](https://github.com/Shihara-Dilshan/BringMeLK-Android-FireBase)
-<!--END_SECTION:activity-->
-
-</details>
 
 [vscode]: https://code.visualstudio.com/
 [Portfolio]: https://shiharadilshan.netlify.app/
@@ -64,11 +44,11 @@
 
 
 
-[website]: https://noobstack.netlify.app/
+
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/codeSTACKrs
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/shihara_dil/
-[linkedin]: https://www.linkedin.com/in/shihara-dilshan-5297711a4/
+[linkedin]: https://www.linkedin.com/in/umesha-ramanayake-715a841b8/
 
 
