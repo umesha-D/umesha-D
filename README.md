@@ -3,13 +3,12 @@
 
 
 
-[<img align="left" alt="noobstack" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="noobstack | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
-[<img align="left" alt="noobstack | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
-[<img align="left" alt="noobstack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="noobstack | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+
+
+
+
+
 
 ### Languages and Tools:
 
@@ -37,10 +36,7 @@
 
 [vscode]: https://code.visualstudio.com/
 [Portfolio]: https://shiharadilshan.netlify.app/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/shihara_dil/
-[linkedin]: https://www.linkedin.com/in/shihara-dilshan-5297711a4/
+[linkedin]: https://www.linkedin.com/in/umesha-ramanayake-715a841b8/
 
 
 
@@ -48,7 +44,6 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKrs
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/shihara_dil/
 [linkedin]: https://www.linkedin.com/in/umesha-ramanayake-715a841b8/
 
 
