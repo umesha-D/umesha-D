@@ -21,7 +21,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][vscode]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][vscode]
 
-[<img align="left" alt="Git" width="26px" clr="white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][vscode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
 
@@ -35,16 +35,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=umesha-D&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="410" height="150" /></p>
 <br><br><br><br><br>
 
-[vscode]: https://code.visualstudio.com/
-[Portfolio]: https://shiharadilshan.netlify.app/
-[linkedin]: https://www.linkedin.com/in/umesha-ramanayake-715a841b8/
 
 
 
 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKrs
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/umesha-ramanayake-715a841b8/
 
 
