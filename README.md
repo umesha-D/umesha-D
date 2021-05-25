@@ -26,11 +26,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
 
 [vscode]: https://code.visualstudio.com/
-[Portfolio]: https://shiharadilshan.netlify.app/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/shihara_dil/
-[linkedin]: https://www.linkedin.com/in/shihara-dilshan-5297711a4/
+
+
 
 
 <br />
@@ -44,12 +41,9 @@
 <br><br><br><br><br>
 
 
-[website]: https://noobstack.netlify.app/
+
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/shihara_dil/
-[linkedin]: https://www.linkedin.com/in/shihara-dilshan-5297711a4/
+
 
 
 
